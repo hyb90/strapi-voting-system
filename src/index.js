@@ -38,49 +38,49 @@ module.exports = {
           category: 1,
           name: "خدمة 1",
           name_en: "Service 1",
-          icon: "uploads/1.svg",
+          icon: "uploads/1.png",
           publishedAt:Date.now()
       },
       {
           category: 1,
           name: "خدمة 2",
           name_en: "Service 2",
-          icon: "uploads/2.svg",
+          icon: "uploads/2.png",
           publishedAt:Date.now()
       },
       {
           category: 1,
           name: "خدمة 3",
           name_en: "Service 3",
-          icon: "uploads/3.svg",
+          icon: "uploads/3.png",
           publishedAt:Date.now()
       },
       {
           category: 2,
           name: "خدمة 4",
           name_en: "Service 4",
-          icon: "uploads/4.svg",
+          icon: "uploads/4.png",
           publishedAt:Date.now()
       },
       {
           category: 2,
           name: "خدمة 5",
           name_en: "Service 5",
-          icon: "uploads/5.svg",
+          icon: "uploads/5.png",
           publishedAt:Date.now()
       },
       {
           category: 2,
           name: "خدمة 6",
           name_en: "Service 6",
-          icon: "uploads/6.svg",
+          icon: "uploads/6.png",
           publishedAt:Date.now()
       },
       {
           category: 2,
           name: "خدمة 7",
           name_en: "Service 7",
-          icon: "uploads/7.svg",
+          icon: "uploads/7.png",
           publishedAt:Date.now()
       }
   ];
